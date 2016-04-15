@@ -1,0 +1,75 @@
+.html5, .css3, .js, .jquery, .angular, .php, .mysql, .seo, .ps, .trello, .wordpress, .illustrator {
+	background: url(sprites.png) no-repeat;
+}
+
+.html5{
+	background-position: 0 0;
+	width: 80px;
+	height: 91px;
+}
+
+.css3{
+	background-position: -84px 0;
+	width: 80px;
+	height: 91px;
+}
+
+.js{
+	background-position: -171px -1px ;
+	width: 80px;
+	height: 80px;
+}
+
+.jquery{
+	background-position: -258px -2px ;
+	width: 80px;
+	height: 77px;
+}
+
+.angular{
+	background-position: -345px -3px ;
+	width: 80px;
+	height: 84px;
+}
+
+.php{
+	background-position: -432px -26px ;
+	width: 80px;
+	height: 42px;
+}
+
+.mysql{
+	background-position: -440px -104px ;
+	width: 76px;
+	height: 77px;
+}
+
+.seo{
+	background-position: 0 -100px ;
+	width: 90px;
+	height: 90px;
+}
+
+.ps{
+	background-position: -99px -104px ;
+	width: 80px;
+	height: 80px;
+}
+
+.trello{
+	background-position: -184px -103px ;
+	width: 80px;
+	height: 82px;
+}
+
+.wordpress{
+	background-position: -266px -105px ;
+	width: 80px;
+	height: 80px;
+}
+
+.illustrator{
+	background-position: -351px -103px ;
+	width: 80px;
+	height: 80px;
+}
