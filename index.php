@@ -99,7 +99,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
-
+    
+    <?php include_once("analyticstracking.php") ?>
 </body>
 
 </html>
