@@ -22,8 +22,8 @@
         <div class="row">
           <div class="col-lg-5 col-lg-offset-1">
             <p>
-              Meu nome é Roberto Nicoletti, tenho 28
-              anos, moro em Taboão da Serra/SP, sou desenvolvedor Web a 8 anos com foco em Front-end,
+              Meu nome é Roberto Nicoletti, tenho <span id="idade">28</span>
+              anos, moro em Taboão da Serra/SP, sou desenvolvedor Web a <span id="anosexperiencia">8</span> anos com foco em Front-end,
               formado em Sistemas  de Informação pela Universidade Bandeirantes de São Paulo.
             </p>
           </div>

@@ -17,6 +17,18 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    (function(){
+      $("#idade").each(function(){
+        var date = new Date();
+        $(this).html(date.getFullYear() - 1987);
+      });
+
+      $("#anosexperiencia").each(function(){
+        var date = new Date();
+        $(this).html(date.getFullYear() - 2007);
+      });
+    })();
 });
 
 // Floating label headings for the contact form
