@@ -51,26 +51,29 @@
                 <li>
                   CSS 3
                   <ul>
-                    <li>Less, SASS</li>
-                    <li>OOCSS, SMACSS, BEM, Stylus</li>
+                    <li>Less, SASS/Compass, Stylus</li>
+                    <li>OOCSS, SMACSS, BEM</li>
                   </ul>
                 </li>
                 <li>
                   Javascript
                   <ul>
                     <li>JQuery</li>
-                    <li>Angular.js</li>
+                    <li>JQuery UI</li>
+                    <li>Vuejs</li>
+                    <li>Angular 1</li>
                   </ul>
                 </li>
                 <li>
                   Wordpress
                   <ul>
+                    <li>Criação de Themas</li>
                     <li>WooCommerce</li>
                   </ul>
                 </li>
                 <li>PHP</li>
                 <li>MySQL</li>
-                <li>Bootstrap, Semantic</li>
+                <li>Bootstrap, Materializecss, Material Design Lite</li>
               </ul>
           </div>
 
@@ -91,14 +94,13 @@
                 <li>SEO</li>
                 <li>Performance</li>
                 <li>Data Analytics</li>
-                <li>UX Design</li>
               </ul>
           </div>
       </div>
 
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
-            <a href="files/Roberto Miyazaki Urias Nicoletti.pdf" target="_blank" class="btn btn-lg btn-outline">
+            <a href="https://1drv.ms/b/s!AuWEI-PDG6x2hIdKllF8Wz6FYnBzsA" target="_blank" class="btn btn-lg btn-outline">
                 <i class="fa fa-download"></i> Meu Curriculo
             </a>
         </div>

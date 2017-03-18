@@ -6,7 +6,7 @@
                 <div class="intro-text">
                     <span class="name">Roberto Nicoletti</span>
                     <hr class="star-light">
-                    <span class="skills">{ HTML - CSS - Javascript - PHP - MySQL - SEO - UX }</span>
+                    <span class="skills">{ HTML5, CSS3, SASS/Compass, JS, PHP/MySQL, SEO }</span>
                 </div>
             </div>
         </div>
